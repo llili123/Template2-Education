@@ -1,0 +1,25 @@
+/*
+Theme Name: template02
+Theme URI: 
+Author: lily
+Author URI: 
+Description: education theme
+Version: 1.3
+License: 
+License URI: 
+Tags: 
+Text Domain: 
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+body{
+   
+}
+#intro{
+  position: relative;
+  top: -40px;
+}
+.huanjing{
+    padding: 15px;
+}
